@@ -42,10 +42,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: Additional training
     content:
-      title: Skills
-      text: ''
+      title: Additional training
+      text: Scientific Programming with Python at the Hewlett Packard Enterprise Data Science Institute (HPE DSI), University of Houston, USA
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
