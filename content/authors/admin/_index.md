@@ -10,12 +10,12 @@ last_name: Valdivieso-Kastner
 superuser: true
 
 # Role/position/tagline
-role: DPhil student in Politics
+role: DPhil candidate in Politics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Oxford
-    url: https://www.politics.ox.ac.uk/
+    url: https://www.politics.ox.ac.uk/](https://www.politics.ox.ac.uk/person/pablo-valdivieso-kastner
 
 # Short bio (displayed in user profile at end of posts)
 bio: DPhil student in Politics
@@ -26,6 +26,7 @@ interests:
   - Legislative politics
   - Quantitative methods
   - Text analysis
+  - Latin America
 
 # Education to show in About widget
 education:
